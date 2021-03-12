@@ -1,0 +1,20 @@
+
+/* Css Component */
+
+#outline-none {
+  outline: none;
+}
+
+.height-4 {
+  height: 400px;
+}
+
+.bg-custom-5 {
+  background-image: url('../img/5.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.my-9 {
+  margin: 90px 0;
+}
